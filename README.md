@@ -2,7 +2,7 @@ Code for the final master's thesis titled "Evolution of the Topology of Datasets
 
 ## Requirements:
 
-This code requires the IMDB review dataset, as well as the BERT_base-uncased and BERT-mini model stored in the same folder as the notebook. Code run and tested in Python 3.13.2 The following libraries are also needed. 
+This code requires the IMDB review dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews), as well as the BERT-base-uncased (https://huggingface.co/google-bert/bert-base-uncased) and BERT-mini (https://huggingface.co/boltuix/bert-mini) models stored in the same folder as the notebook. Code run and tested in Python 3.13.2 The following libraries are also needed. 
 
 aiohappyeyeballs==2.6.2
 aiohttp==3.14.0
